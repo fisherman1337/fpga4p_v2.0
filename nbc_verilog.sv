@@ -1,7 +1,7 @@
 module BC_UART
 #(
-    parameter AMOUNT_CLASS                          = x,
-    parameter WIDTH_FIFO_RX                         = x,
+    parameter AMOUNT_CLASS                          = 2,
+    parameter WIDTH_FIFO_RX                         = 8,
     parameter string  INIT_MEM_CAL[AMOUNT_CLASS-1:0]= '{ },
     parameter WIDTH_LOG_W                           = 32
     parameter WIDTH_LOG_D                           = 32,
