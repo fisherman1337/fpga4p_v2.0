@@ -1,5 +1,6 @@
 # fpga4p_v2.0
 Python package / GNU Linux terminal utility for porting machine learning algorithms to FPGA.
+https://pypi.org/project/fpga4p/
 
  MANUAL:
 
